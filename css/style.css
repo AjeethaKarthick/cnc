@@ -260,7 +260,7 @@ h6,
 .hero-header {
     padding: 8rem 0 0 0;
     background:
-        linear-gradient(to bottom right, #ced5dc, #2281e0);
+        linear-gradient(to bottom right, #2596be, #2596be);
     background-position:
         left 0px top 0px,
         right 0px top 50%,
@@ -269,7 +269,7 @@ h6,
 
 @media (max-width: 991.98px) {
     .hero-header {
-        padding: 6rem 0 9rem 0;
+        padding: 6rem 0 6rem 0;
     }
 }
 
